@@ -1,0 +1,30 @@
+
+**Descripción del Producto: Servidor Wo**
+
+El **Servidor Wo** es una solución de base de datos SQL diseñada específicamente para programas contables. Este servidor de alto rendimiento y confiabilidad garantiza la integridad y seguridad de los datos financieros, proporcionando un entorno robusto para la gestión eficiente de la información contable.
+
+**Características principales:**
+- **Optimización SQL:** Rendimiento mejorado para consultas y transacciones contables.
+- **Alta Disponibilidad:** Garantiza el acceso continuo a los datos con tiempos de inactividad mínimos.
+- **Seguridad de Datos:** Protección avanzada contra accesos no autorizados y pérdidas de información.
+- **Escalabilidad:** Capacidad para manejar desde pequeñas empresas hasta grandes corporaciones.
+- **Compatibilidad:** Integración perfecta con los programas contables más utilizados en el mercado.
+
+**Precio:** $1,000,000 COP
+
+El **Servidor Wo** es la elección ideal para empresas que buscan una solución confiable y eficiente para la gestión de sus datos contables, ofreciendo un equilibrio perfecto entre costo y rendimiento.
+
+**Descripción del Producto: Conexión a Escritorio Remoto**
+
+La **Conexión a Escritorio Remoto** es una solución avanzada que permite a los usuarios acceder a su equipo y a todas sus aplicaciones desde cualquier lugar y en cualquier momento. Esta herramienta es ideal para profesionales y empresas que buscan flexibilidad y eficiencia en su trabajo diario.
+
+**Características principales:**
+- **Acceso Remoto Seguro:** Conexiones encriptadas que garantizan la seguridad de tus datos.
+- **Facilidad de Uso:** Interfaz intuitiva que permite una conexión rápida y sencilla.
+- **Compatibilidad Multiplataforma:** Acceso desde dispositivos Windows, macOS, iOS y Android.
+- **Desempeño Óptimo:** Transferencia de datos rápida y fluida, asegurando una experiencia sin interrupciones.
+- **Soporte Técnico:** Asistencia técnica disponible para resolver cualquier inconveniente.
+
+**Precio:** $150,000 COP
+
+La **Conexión a Escritorio Remoto** es la solución perfecta para quienes necesitan acceso continuo a su trabajo, facilitando la movilidad y la productividad sin comprometer la seguridad.
